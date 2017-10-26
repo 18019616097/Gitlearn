@@ -11,5 +11,5 @@ sadfsdfdsfs.\
 
 \f1 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Git has a mutable index called stage.\
-\pard\pardeftab720\partightenfactor0
-\cf2 \cb3 Git tracks changes.}
+Git tracks changes.\
+zaicixiugai.}
